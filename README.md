@@ -1,3 +1,4 @@
 # firstcode_demoo
-this is my first reppository
-author govind gautam
+This is my first reppository.
+<br>
+Author govind gautam
